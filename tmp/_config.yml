@@ -1,0 +1,7 @@
+title: "Tomoko Tchuke's Research Archive"
+description: "Collected Writings of a Sharlayan Miqo'te Scholar"
+baseurl: ""
+url: "https://etwodev.github.io/SharlayanResearchArchive"
+theme: null
+markdown: kramdown
+permalink: /:title/

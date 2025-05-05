@@ -1,7 +1,5 @@
-title: "Tomoko Tchuke's Research Archive"
-description: "Collected Writings of a Sharlayan Miqo'te Scholar"
-baseurl: ""
-url: "https://etwodev.github.io/SharlayanResearchArchive"
-theme: null
-markdown: kramdown
-permalink: /:title/
+title: Tactile theme
+description: Tactile is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-tactile
