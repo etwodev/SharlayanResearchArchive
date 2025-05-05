@@ -1,0 +1,7 @@
+title: "The Sharlayan Research Archive"
+description: "Collected Papers by Archon Elara Val’tan"
+baseurl: "" # Leave this empty for GitHub Pages root
+url: "https://yourusername.github.io" # Change to your GitHub Pages URL
+theme: null
+markdown: kramdown
+permalink: /:title/
