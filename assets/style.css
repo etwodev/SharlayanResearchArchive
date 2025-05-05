@@ -1,0 +1,45 @@
+body {
+  font-family: 'Georgia', serif;
+  background: #f9f6f1 url('https://www.transparenttextures.com/patterns/paper-fibers.png');
+  color: #2a1e17;
+  max-width: 700px;
+  margin: auto;
+  padding: 2em;
+  line-height: 1.6;
+  border: 1px solid #c2b9a3;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  border-radius: 12px;
+}
+
+h1, h2, h3 {
+  color: #3e3e3e;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3em;
+}
+
+a {
+  color: #2c5d7a;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+blockquote {
+  font-style: italic;
+  color: #5a4f3d;
+  border-left: 4px solid #c5bca7;
+  padding-left: 1em;
+  margin-left: 0;
+}
+
+ul {
+  list-style-type: square;
+}
+
+code {
+  background-color: #eee;
+  padding: 0.2em 0.4em;
+  font-family: monospace;
+}
