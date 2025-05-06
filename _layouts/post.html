@@ -2,8 +2,14 @@
 layout: default
 ---
 
-<article>
+<article class="research-entry">
   <h1>{{ page.title }}</h1>
-  <p><small>Posted on {{ page.date | date: "%B %d, %Y" }}</small></p>
-  <div>{{ content }}</div>
+  <p class="meta">
+    <strong>Authored by Scholar Tomoko Tchuke</strong><br>
+    <small>Filed on {{ page.date | date: "%B %d, %Y" }}</small>
+  </p>
+  <hr>
+  <div class="post-body">
+    {{ content }}
+  </div>
 </article>
