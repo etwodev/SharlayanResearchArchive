@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-# Welcome
-
-## Recent Posts
+# Recent Archives
 
 <ul>
   {% for post in site.posts %}
