@@ -3,8 +3,6 @@ layout: post
 title: "Lunar Influence on Aetheric Flow: Observations from Eastern La Noscea"
 ---
 
-> *Compiled by Tomoko Tchuke, Keeper of the Moon and Scholar of the Studium*
-
 ## Abstract
 Aetheric flows in Eastern La Noscea display minor but persistent oscillations during the lunar cycle’s waning phase. These fluctuations appear especially pronounced in regions once shaped by Allagan presence.
 
@@ -17,7 +15,3 @@ The moon’s pull—so often spiritualized among my kin—may have a measurable 
 
 ## Reflections
 Would those long-lost engineers have anticipated such resonance? Or did they, perhaps, intend it?
-
----
-
-*Filed on the 19th Sun of the 5th Umbral Moon.*

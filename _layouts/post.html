@@ -6,7 +6,19 @@ layout: default
   <h1>{{ page.title }}</h1>
   <p class="meta">
     <strong>Authored by Scholar Tomoko Tchuke</strong><br>
-    <small>Filed on {{ page.date | date: "%B %d, %Y" }}</small>
+    {% assign day = page.date | date: "%-d" | plus: 0 %}
+    {% assign month = page.date | date: "%-m" | plus: 0 %}
+
+    {% assign moon_names = "1st Astral,1st Umbral,2nd Astral,2nd Umbral,3rd Astral,3rd Umbral,4th Astral,4th Umbral,5th Astral,5th Umbral,6th Astral,6th Umbral" | split: "," %}
+    {% assign moon_index = month | minus: 1 %}
+    {% assign moon = moon_names[moon_index] %}
+
+    <small><em>Filed on the {{ day }}{% case day %}
+      {% when '1' or '21' or '31' %}st
+      {% when '2' or '22' %}nd
+      {% when '3' or '23' %}rd
+      {% else %}th
+    {% endcase %} Sun of the {{ moon }} Moon.</em></small>
   </p>
   <hr>
   <div class="post-body">
