@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Lunar Influence on Aetheric Flow: Observations from Eastern La Noscea"
 ---
 
