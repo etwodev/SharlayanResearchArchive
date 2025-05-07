@@ -11,7 +11,7 @@ This paper explores the hypothesis that memory and emotion can imprint on ambien
 
 Aether has long been studied as the underlying fabric of life, magic, and existence in Eorzea. While its elemental composition and flow dynamics are well documented, its **behavior in relation to cognitive and emotional stimuli** remains poorly understood. This research seeks to narrow the gap between **subjective experience** and **aetherial mechanics**—specifically, whether powerful memory can exert structural influence on local aether.
 
-# Observations and Field Study
+# Observations
 
 Two key locations were examined:
 
