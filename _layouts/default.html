@@ -7,8 +7,22 @@
 </head>
 <body>
   {% include header.html %}
-  <main>
+
+  {% if page.spoilers %}
+    <!-- Spoiler Warning Overlay -->
+    <div id="spoiler-overlay" class="spoiler-overlay">
+      <div class="spoiler-popup">
+        <h2>This page contains spoilers!</h2>
+        <p>It contains spoilers for: {{ page.spoilers }}</p>
+        <button id="spoiler-ok-btn">OK</button>
+      </div>
+    </div>
+  {% endif %}
+
+  <main id="content">
     {{ content }}
   </main>
+
+  <script src="{{ site.baseurl }}/assets/js/spoiler.js"></script>
 </body>
 </html>

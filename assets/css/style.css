@@ -38,3 +38,53 @@ h1, h2, h3 {
   font-style: italic;
   color: #555;
 }
+
+/* Spoiler Warning Overlay */
+.spoiler-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9998;
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 0.5s ease;
+}
+
+.spoiler-overlay.show {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Popup Box */
+.spoiler-popup {
+  background-color: white;
+  padding: 20px;
+  text-align: center;
+  max-width: 400px;
+  border-radius: 10px;
+  z-index: 9999;
+}
+
+#content {
+  filter: blur(5px);
+}
+
+.spoiler-popup button {
+  padding: 10px 20px;
+  margin-top: 15px;
+  background-color: #2c3e50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.spoiler-popup button:hover {
+  background-color: #34495e;
+}

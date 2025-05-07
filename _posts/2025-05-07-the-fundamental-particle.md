@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "On the Fundamental Nature of Aetherial Composition in the Physical Realm"
+spoilers: "Endwalker"
 ---
 
 ## Abstract
