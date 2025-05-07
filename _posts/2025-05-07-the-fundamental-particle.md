@@ -21,15 +21,13 @@ For centuries, scholars have known that aether flows through the world in great 
 
 We begin with the central axiom:
 
-> All physical matter is comprised
-
 > All matter is condensed aether. There is no deeper substrate.
 
 Unlike classical Realms-studies theories which assumed “material particles,” aetherology posits a **monistic field**: aether is the **singular substance**, shaped into diversity by **aspect, density, and pattern**.
 
 ---
 
-## 3. States of Aether
+## States of Aether
 
 Aether exists in multiple interconvertible forms:
 
@@ -44,7 +42,7 @@ Aether exists in multiple interconvertible forms:
 
 ---
 
-## 4. Aetherial Patterning and Material Formation
+## Aetherial Patterning and Material Formation
 
 All solid substances—from humble iron to rare auracite—form through **aetherial patterning**.
 
@@ -61,9 +59,8 @@ These patterns determine:
 - Conductivity and magical affinity (elemental alignment)
 - Rarity (difficulty of natural aether convergence into that pattern)
 
----
 
-## 5. Role of the Soul in Living Matter
+## Role of the Soul in Living Matter
 
 Living beings differ from inert matter by the presence of a **soul-imprinted aetherial matrix**. The soul serves as both:
 - **Pattern origin** (blueprint for the body)
@@ -71,9 +68,7 @@ Living beings differ from inert matter by the presence of a **soul-imprinted aet
 
 In sundered beings, these matrices are **fragmented**, resulting in diminished aether density, instability under magical duress, and greater emotional susceptibility.
 
----
-
-## 6. The Relationship Between Aether and Dynamis
+## The Relationship Between Aether and Dynamis
 
 Recent observations beyond the Source (notably during the Meteion Phenomenon) reveal the existence of **dynamis**, an energy distinct from aether:
 
@@ -86,9 +81,7 @@ Recent observations beyond the Source (notably during the Meteion Phenomenon) re
 
 Dynamis cannot replace aether, but may influence or warp it under specific conditions, often in emotionally intense circumstances.
 
----
-
-## 7. Conclusion
+## Conclusion
 
 The study of aether reveals a universe of elegant simplicity and infinite complexity. With aether as the **only true particle**, the diversity of the world arises not from material atoms, but from **the patterns it weaves**.
 
@@ -96,13 +89,9 @@ Understanding these patterns is not merely academic—it is the key to creation,
 
 ---
 
-## References
+**Citations & References**
 
 - Galuf, *Fundamentals of Thaumaturgy and the Soul*
 - Emet-Selch, *On the Creation of the World* (Oral transmission, recorded by G’raha Tia)
 - Studium Aetherological Quarterly, Vol. 56
 - Field Notes from Elpis: Themis’ Observations
-
----
-
-*This paper has been approved by the Forum for public circulation under Clause 14: Non-volatile metaphysical theory.*

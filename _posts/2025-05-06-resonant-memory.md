@@ -3,15 +3,15 @@ layout: post
 title: "Resonant Memory and Aetherial Echo: An Inquiry into the Emotional Imprint on Ambient Aether"
 ---
 
-# Abstract
+## Abstract
 
 This paper explores the hypothesis that memory and emotion can imprint on ambient aether in localized environments, producing what may be identified as **aetherial resonance phenomena**—colloquially known as *echoes* or *spiritual traces*. The aim is to correlate observed residual aetheric anomalies with recorded traumatic or emotionally charged events, and to assess their potential impact on aetherial flow and regional thaumaturgic stability.
 
-# Introduction
+## Introduction
 
 Aether has long been studied as the underlying fabric of life, magic, and existence in Eorzea. While its elemental composition and flow dynamics are well documented, its **behavior in relation to cognitive and emotional stimuli** remains poorly understood. This research seeks to narrow the gap between **subjective experience** and **aetherial mechanics**—specifically, whether powerful memory can exert structural influence on local aether.
 
-# Observations
+## Observations
 
 Two key locations were examined:
 
@@ -22,7 +22,7 @@ Two key locations were examined:
 - **The Gelmorran Ruins** (Black Shroud)
   - Deep aether pools below the Twelveswood show evidence of layered memory traces. Initial hypothesis suggests remnants of Gelmorran despair or ritual activity.
 
-# Theoretical Framework
+## Theoretical Framework
 
 Building on the research of Archon Niniri Seyo and the reconstructed logs of Allagan neuro-aetheric experiments, I propose the following:
 
@@ -31,11 +31,11 @@ Building on the research of Archon Niniri Seyo and the reconstructed logs of All
 
 This theory aligns with anecdotal Echo phenomena experienced by select individuals and may account for naturally occurring illusions or "hauntings" in aether-rich ruins.
 
-# Ethical Considerations
+## Ethical Considerations
 
 As always, care must be taken when studying emotionally volatile aether. The Lifestream is not a passive archive. Extraction or manipulation risks unintentional severance, soul entanglement, or localized aetheric degradation.
 
-# Conclusion
+## Conclusion
 
 The intersection of memory, emotion, and aether may offer new pathways for understanding not only spellcraft and Echo phenomena, but also the deeper nature of soul and identity. Further collaboration with practitioners of both thaumaturgy and animancy is recommended.
 
