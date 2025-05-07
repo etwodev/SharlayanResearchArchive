@@ -7,8 +7,6 @@ body {
   max-width: 800px;
   margin: auto;
   padding: 2rem;
-  background-image: url('/assets/img/parchment-bg.jpg'); /* Optional parchment texture */
-  background-size: cover;
 }
 
 header {
@@ -37,6 +35,60 @@ h1, h2, h3 {
 .meta {
   font-style: italic;
   color: #555;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+  font-family: 'EB Garamond', serif;
+  background-color: rgba(255,255,255,0.8);
+  box-shadow: 0 0 6px rgba(0,0,0,0.05);
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.75rem 1rem;
+  text-align: left;
+  color: #2c2c2c;
+}
+
+th {
+  background-color: #eae0d5;
+  color: #3b2f1e;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background-color: #f5f0ea;
+}
+
+tr:hover {
+  background-color: #f0e6dc;
+}
+
+blockquote {
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  border-left: 4px solid #4a3c28;
+  background-color: #f5f0ea;
+  margin: 1.5rem 0;
+  padding: 1rem 1.5rem;
+  color: #3b2f1e;
+  position: relative;
+}
+
+blockquote::before {
+  content: "“";
+  font-size: 2rem;
+  position: absolute;
+  left: 10px;
+  top: 5px;
+  color: #c2a76d;
+}
+
+blockquote p {
+  margin: 0;
 }
 
 /* Spoiler Warning Overlay */
