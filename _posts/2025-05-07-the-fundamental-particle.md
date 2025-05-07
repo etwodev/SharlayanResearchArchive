@@ -25,44 +25,43 @@ We begin with the central axiom:
 
 Unlike classical Realms-studies theories which assumed “material particles,” aetherology posits a **monistic field**: aether is the **singular substance**, shaped into diversity by **aspect, density, and pattern**.
 
----
-
 ## States of Aether
 
 Aether exists in multiple interconvertible forms:
 
-| State                 | Description                                      | Examples                           |
-|----------------------|--------------------------------------------------|------------------------------------|
-| **Unaspected Aether**| Raw, unaligned. Basis for all manipulation.      | Teleportation, anima, soul energy |
-| **Aspected Aether**  | Aligned to elemental principles (six elements).  | Fire magic, climate, leyline flow |
-| **Solidified Aether**| Condensed into matter. Pattern defines form.     | Stone, flesh, crystal              |
-| **Crystallized Aether** | Highly stable solid forms, often magically rich. | Shards, crystals, auracite         |
-| **Soul Aether**      | Imprinted with identity and will.                | Souls, Eikons, Echo bearers        |
-| **Corrupted Aether** | Distorted by void, sin, or excess.               | Voidsent, tempered beings, relics  |
-
----
+| State                 | Description                                         | Examples                            |
+|----------------------|-----------------------------------------------------|-------------------------------------|
+| **Unaspected Aether**| Raw, unaligned. Basis for all manipulation.         | Teleportation, anima, soul energy   |
+| **Aspected Aether**  | Aligned to elemental principles (six elements).     | Fire magic, climate, leyline flow   |
+| **Solidified Aether**| Condensed into matter. Pattern defines form.        | Stone, flesh, crystal               |
+| **Crystallized Aether** | Highly stable solid forms, often magically rich. | Shards, crystals, auracite          |
+| **Soul-Imprinted Aether** | Aether bearing identity and volition.         | Souls, Eikons, Echo bearers         |
+| **Corrupted Aether** | Distorted by void, sin, or excess.                  | Voidsent, tempered beings, relics   |
 
 ## Aetherial Patterning and Material Formation
 
 All solid substances—from humble iron to rare auracite—form through **aetherial patterning**.
 
 We define an **aetherial lattice** as:
+
 > A stable, repeating pattern of condensed aether aligned to specific elemental frequencies.
 
 For example:
+
 - **Gold**: High unaspected aether content, stable harmonic lattice, minimal elemental affinity.
-- **Mythril**: Lightning-aspected aether, light density, highly conductive.
+- **Mythril**: Often used in lightning magicks; theorized to resonate with lightning-aspected aether, light density, and potential magical conductivity.
 - **Darksteel**: Dense earth-aspected aether with trace corruption, resulting in extreme durability.
 
 These patterns determine:
-- Mass and hardness (aether density)
-- Conductivity and magical affinity (elemental alignment)
-- Rarity (difficulty of natural aether convergence into that pattern)
 
+- **Mass and hardness** (aether density)
+- **Conductivity and magical affinity** (elemental alignment)
+- **Rarity** (difficulty of natural aether convergence into that pattern)
 
 ## Role of the Soul in Living Matter
 
 Living beings differ from inert matter by the presence of a **soul-imprinted aetherial matrix**. The soul serves as both:
+
 - **Pattern origin** (blueprint for the body)
 - **Energy engine** (maintains cohesion and facilitates growth)
 
@@ -72,12 +71,12 @@ In sundered beings, these matrices are **fragmented**, resulting in diminished a
 
 Recent observations beyond the Source (notably during the Meteion Phenomenon) reveal the existence of **dynamis**, an energy distinct from aether:
 
-| Property    | Aether                    | Dynamis                         |
-|-------------|---------------------------|----------------------------------|
-| Nature      | Structural, will-bound    | Emotional, mutable               |
-| Forms       | Solid, liquid, magical    | Intangible, motive               |
-| Reactivity  | Logical, requires shaping | Responsive to feeling and intent |
-| Function    | Builds form               | Alters possibility               |
+| Property    | Aether                         | Dynamis                          |
+|-------------|--------------------------------|----------------------------------|
+| Nature      | Structural, will-bound         | Emotional, mutable               |
+| Forms       | Solid, liquid, magical         | Intangible, motive               |
+| Reactivity  | Logical, requires shaping      | Responsive to feeling and intent |
+| Function    | Constructs material reality    | Modulates outcomes emotionally   |
 
 Dynamis cannot replace aether, but may influence or warp it under specific conditions, often in emotionally intense circumstances.
 
