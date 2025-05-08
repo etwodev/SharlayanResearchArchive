@@ -40,7 +40,7 @@ Aether exists in multiple interconvertible forms:
 
 ## Aetherial Patterning and Material Formation
 
-All solid substances—from humble iron to rare auracite—form through **aetherial patterning**.
+All solid substances—from iron to auracite—form through **aetherial patterning**.
 
 We define an **aetherial lattice** as:
 
