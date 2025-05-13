@@ -91,6 +91,28 @@ blockquote p {
   margin: 0;
 }
 
+/* Style for code block container */
+.highlight pre {
+  background-color: #f0e6dc; /* a soft parchment tone */
+  border-left: 4px solid #4a3c28;
+  padding: 1em;
+  margin: 1.5em 0;
+  overflow-x: auto;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+Style for code inside the block
+.highlight pre,
+.highlight code {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #2c2c2c;
+  background: none; /* inherit from .highlight */
+  white-space: pre-wrap; /* better wrapping on narrow screens */
+}
+
+
 /* Spoiler Warning Overlay */
 .spoiler-overlay {
   position: fixed;
